@@ -7,6 +7,7 @@ bargraph.py — generates bar graph representation of data from your inputted .c
 histogram.py — generates histogram representation and distribution of data from your inputted .csv file. <br />
 scatterplot.py — generates scatterplot representation data from your inputted .csv file. <br />
 boxplot.py — generates box plot representation data from your inputted .csv file. <br />
+hours.csv — an example .csv file to demonstrate how this program works.
 <br /> All visual representations are built to be modular. They are divided into separate Python files so that you may pick and choose which representations you need for your personal use case.
 
 # How Do I Use This?
